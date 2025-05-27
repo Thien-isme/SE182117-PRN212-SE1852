@@ -1,0 +1,14 @@
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\bin\Debug\net9.0\CallByReference.exe
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\bin\Debug\net9.0\CallByReference.deps.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\bin\Debug\net9.0\CallByReference.runtimeconfig.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\bin\Debug\net9.0\CallByReference.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\bin\Debug\net9.0\CallByReference.pdb
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.AssemblyInfoInputs.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.AssemblyInfo.cs
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.csproj.CoreCompileInputs.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\obj\Debug\net9.0\refint\CallByReference.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.pdb
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.genruntimeconfig.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\CallByReference\obj\Debug\net9.0\ref\CallByReference.dll

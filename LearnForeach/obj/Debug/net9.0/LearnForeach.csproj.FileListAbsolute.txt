@@ -1,0 +1,14 @@
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.exe
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.deps.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.runtimeconfig.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.pdb
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.AssemblyInfoInputs.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.AssemblyInfo.cs
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.csproj.CoreCompileInputs.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\refint\LearnForeach.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.pdb
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.genruntimeconfig.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\ref\LearnForeach.dll
