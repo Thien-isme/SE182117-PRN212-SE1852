@@ -1,0 +1,4 @@
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\BaiControl2\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\BaiControl2\obj\Debug\net9.0-windows\App.g.cs
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\BaiControl2\obj\Debug\net9.0-windows\BaiControl2_MarkupCompile.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\BaiControl2\obj\Debug\net9.0-windows\BaiControl2_MarkupCompile.lref
