@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BaiTapListWPF/1.0.0": {
+        "runtime": {
+          "BaiTapListWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiTapListWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A759E94B-D40D-4F5F-ADF6-7F2398C47AB2}|BaiControl2\\BaiControl2.csproj|d:\\fpt\\cackyhoc\\ky_5_fpt\\prn212\\prn212_se1852\\baicontrol2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A759E94B-D40D-4F5F-ADF6-7F2398C47AB2}|BaiControl2\\BaiControl2.csproj|solutionrelative:baicontrol2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B9C25D68-6D3B-469F-8953-51361294C9F2}|BaiTapListWPF\\BaiTapListWPF.csproj|d:\\fpt\\cackyhoc\\ky_5_fpt\\prn212\\prn212_se1852\\baitaplistwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C25D68-6D3B-469F-8953-51361294C9F2}|BaiTapListWPF\\BaiTapListWPF.csproj|solutionrelative:baitaplistwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A759E94B-D40D-4F5F-ADF6-7F2398C47AB2}|BaiControl2\\BaiControl2.csproj|d:\\fpt\\cackyhoc\\ky_5_fpt\\prn212\\prn212_se1852\\baicontrol2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A759E94B-D40D-4F5F-ADF6-7F2398C47AB2}|BaiControl2\\BaiControl2.csproj|solutionrelative:baicontrol2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9C25D68-6D3B-469F-8953-51361294C9F2}|BaiTapListWPF\\BaiTapListWPF.csproj|d:\\fpt\\cackyhoc\\ky_5_fpt\\prn212\\prn212_se1852\\baitaplistwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9C25D68-6D3B-469F-8953-51361294C9F2}|BaiTapListWPF\\BaiTapListWPF.csproj|solutionrelative:baitaplistwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A759E94B-D40D-4F5F-ADF6-7F2398C47AB2}|BaiControl2\\BaiControl2.csproj|d:\\fpt\\cackyhoc\\ky_5_fpt\\prn212\\prn212_se1852\\baicontrol2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A759E94B-D40D-4F5F-ADF6-7F2398C47AB2}|BaiControl2\\BaiControl2.csproj|solutionrelative:baicontrol2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B9C25D68-6D3B-469F-8953-51361294C9F2}|BaiTapListWPF\\BaiTapListWPF.csproj|d:\\fpt\\cackyhoc\\ky_5_fpt\\prn212\\prn212_se1852\\baitaplistwpf\\baitaplistwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9C25D68-6D3B-469F-8953-51361294C9F2}|BaiTapListWPF\\BaiTapListWPF.csproj|solutionrelative:baitaplistwpf\\baitaplistwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 337,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiControl2\\App.xaml",
-              "RelativeDocumentMoniker": "BaiControl2\\App.xaml",
-              "ToolTip": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiControl2\\App.xaml",
-              "RelativeToolTip": "BaiControl2\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T01:03:51.429Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -51,27 +38,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiControl2\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "BaiControl2\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiControl2\\MainWindow.xaml.cs",
-              "RelativeToolTip": "BaiControl2\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBAAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiTapListWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BaiTapListWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiTapListWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BaiTapListWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAD4vy8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T01:03:57.217Z",
+              "WhenOpened": "2025-06-17T02:09:28.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiControl2\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "BaiControl2\\MainWindow.xaml",
-              "ToolTip": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiControl2\\MainWindow.xaml",
-              "RelativeToolTip": "BaiControl2\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiTapListWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BaiTapListWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiTapListWPF\\MainWindow.xaml",
+              "RelativeToolTip": "BaiTapListWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T01:03:39.848Z",
+              "WhenOpened": "2025-06-17T02:09:10.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaiTapListWPF",
+              "DocumentMoniker": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiTapListWPF\\BaiTapListWPF.csproj",
+              "RelativeDocumentMoniker": "BaiTapListWPF\\BaiTapListWPF.csproj",
+              "ToolTip": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\BaiTapListWPF\\BaiTapListWPF.csproj",
+              "RelativeToolTip": "BaiTapListWPF\\BaiTapListWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T02:09:09.347Z",
               "EditorCaption": ""
             }
           ]
