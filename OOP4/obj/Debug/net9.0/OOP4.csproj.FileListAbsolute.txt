@@ -1,0 +1,15 @@
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\bin\Debug\net9.0\OOP4.exe
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\bin\Debug\net9.0\OOP4.deps.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\bin\Debug\net9.0\OOP4.runtimeconfig.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\bin\Debug\net9.0\OOP4.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\bin\Debug\net9.0\OOP4.pdb
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\obj\Debug\net9.0\OOP4.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\obj\Debug\net9.0\OOP4.AssemblyInfoInputs.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\obj\Debug\net9.0\OOP4.AssemblyInfo.cs
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\obj\Debug\net9.0\OOP4.csproj.CoreCompileInputs.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\obj\Debug\net9.0\OOP4.sourcelink.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\obj\Debug\net9.0\OOP4.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\obj\Debug\net9.0\refint\OOP4.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\obj\Debug\net9.0\OOP4.pdb
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\obj\Debug\net9.0\OOP4.genruntimeconfig.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\OOP4\obj\Debug\net9.0\ref\OOP4.dll

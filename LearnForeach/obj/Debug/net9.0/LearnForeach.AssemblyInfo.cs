@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnForeach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc373d601ac98f82f4177964119723d32210886c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnForeach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnForeach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

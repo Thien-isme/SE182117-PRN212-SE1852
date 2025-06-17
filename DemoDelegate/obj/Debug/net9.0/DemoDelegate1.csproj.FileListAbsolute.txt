@@ -1,0 +1,15 @@
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\bin\Debug\net9.0\DemoDelegate1.exe
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\bin\Debug\net9.0\DemoDelegate1.deps.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\bin\Debug\net9.0\DemoDelegate1.runtimeconfig.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\bin\Debug\net9.0\DemoDelegate1.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\bin\Debug\net9.0\DemoDelegate1.pdb
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate1.AssemblyInfoInputs.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate1.AssemblyInfo.cs
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate1.csproj.CoreCompileInputs.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate1.sourcelink.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate1.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\refint\DemoDelegate1.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate1.pdb
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\DemoDelegate1.genruntimeconfig.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DemoDelegate\obj\Debug\net9.0\ref\DemoDelegate1.dll

@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5479D905-953A-4E5C-9D3E-5C2406CC5694}|Bai1\\Bai1.csproj|d:\\fpt\\cackyhoc\\ky_5_fpt\\prn212\\prn212_se1852\\bai1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5479D905-953A-4E5C-9D3E-5C2406CC5694}|Bai1\\Bai1.csproj|solutionrelative:bai1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5479D905-953A-4E5C-9D3E-5C2406CC5694}|Bai1\\Bai1.csproj|d:\\fpt\\cackyhoc\\ky_5_fpt\\prn212\\prn212_se1852\\bai1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5479D905-953A-4E5C-9D3E-5C2406CC5694}|Bai1\\Bai1.csproj|solutionrelative:bai1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5479D905-953A-4E5C-9D3E-5C2406CC5694}|Bai1\\ButtonControl_TongHop.csproj|d:\\fpt\\cackyhoc\\ky_5_fpt\\prn212\\prn212_se1852\\bai1\\buttoncontrol_tonghop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5479D905-953A-4E5C-9D3E-5C2406CC5694}|Bai1\\ButtonControl_TongHop.csproj|solutionrelative:bai1\\buttoncontrol_tonghop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonControl_TongHop.csproj",
+              "DocumentMoniker": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\Bai1\\ButtonControl_TongHop.csproj",
+              "RelativeDocumentMoniker": "Bai1\\ButtonControl_TongHop.csproj",
+              "ToolTip": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\Bai1\\ButtonControl_TongHop.csproj",
+              "RelativeToolTip": "Bai1\\ButtonControl_TongHop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T03:10:31.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\Bai1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bai1\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\Bai1\\MainWindow.xaml*",
+              "RelativeToolTip": "Bai1\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T03:10:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\Bai1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bai1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\Bai1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Bai1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T01:21:04.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
