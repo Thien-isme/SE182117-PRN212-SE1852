@@ -1,0 +1,16 @@
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.sourcelink.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.deps.json
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\bin\Debug\net9.0\BussinessObjects.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\bin\Debug\net9.0\BussinessObjects.pdb
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAcce.E67BD773.Up2Date
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\refint\DataAccessLayer.dll
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.pdb
+D:\FPT\CacKyHoc\Ky_5_FPT\PRN212\PRN212_SE1852\DataAccessLayer\obj\Debug\net9.0\ref\DataAccessLayer.dll

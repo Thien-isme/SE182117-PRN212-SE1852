@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZihi+i6TP0=",
+  "success": false,
+  "projectFilePath": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\DataAccessLayerr\\DataAccessLayerr.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project TreeViewWPF is not compatible with net9.0 (.NETCoreApp,Version=v9.0). Project TreeViewWPF supports: net9.0-windows7.0 (.NETCoreApp,Version=v9.0)",
+      "projectPath": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\DataAccessLayerr\\DataAccessLayerr.csproj",
+      "filePath": "D:\\FPT\\CacKyHoc\\Ky_5_FPT\\PRN212\\PRN212_SE1852\\DataAccessLayerr\\DataAccessLayerr.csproj",
+      "libraryId": "TreeViewWPF",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoLinqToObject2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+746393fcb78f74d4cc6b3bc2087e7655808be2a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1719fc962edfe9f8820246deb5ce52707442657")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoLinqToObject2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoLinqToObject2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
